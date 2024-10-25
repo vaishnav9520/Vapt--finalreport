@@ -5,7 +5,7 @@ This repository contains security assessment reports, including a VAPT (Vulnerab
 ## Reports
 
 ### 1. VAPT Report
-- **Filename**: `literature report all.pdf`
+- **Filename**: `literature vapt report all.pdf`
 - **Description**: This report outlines the findings from the vulnerability assessment and penetration testing conducted on the target system. It includes identified vulnerabilities, risk ratings, and recommended remediation steps.
 
 ### 2. Bug Bounty Report
